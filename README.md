@@ -7,3 +7,5 @@ TASK 3:
 I have  implemented both simple and multiple linear regression using the house sales dataset. preprocessed the data, split it into training and testing sets, and trained a LinearRegression model from scikit-learn & evaluated model performance using MAE, MSE, RMSE, and R², and visualized results with histograms of feature coefficients, and regression line plots to understand feature–price relationships along with created pairplot for all these features in data.
 TASK 4:
 In this task,I have  built a binary classifier using Logistic Regression. We split the dataset into training and testing sets, standardized the features, and trained the model. We evaluated performance using confusion matrix, precision, recall, and ROC-AUC, achieving an AUC score of 1.0, indicating perfect classification on the test data.
+TASK 5:
+I have trained a Random Forest classifier with selected hyperparameters on our dataset to improve prediction accuracy. After fitting the model, and evaluated its performance on both training and test sets. Finally, I compared the Random Forest’s accuracy with the Decision Tree’s to see the benefit of using an ensemble method.
